@@ -3069,8 +3069,8 @@
 		/*text-decoration: none !important;*/
 		/*border-bottom: none;*/
 		border: 1px solid #888;
-		padding: 3px 4px;
-		border-radius: 2px;
+		padding: 15px 20px;
+		border-radius: 3px;
 	}
 
 	.resume-link:hover {
